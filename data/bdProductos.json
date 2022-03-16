@@ -1,0 +1,147 @@
+{
+    "productos": [
+        {
+            "id": 1,
+            "nombre": "Limon con semilla",
+            "precio": 2500,
+            "descuento": true,
+            "porcentaje_descuento": 0.32,
+            "imagen": "https://i.ibb.co/g3m3wK2/Limon.jpg"
+        },
+
+        {
+            "id": 2,
+            "nombre": "Tomate",
+            "precio": 3500,
+            "descuento": true,
+            "porcentaje_descuento": 0.3,
+            "imagen": "https://i.ibb.co/zrZ4bXy/Tomate.jpg"
+        },
+
+        {
+            "id": 3,
+            "nombre": "Aguacate",
+            "precio": 2500,
+            "descuento": true,
+            "porcentaje_descuento": 0.18,
+            "imagen":  "https://i.ibb.co/kmtsS5g/Aguacate.jpg"
+        },
+
+        {
+            "id": 4,
+            "nombre": "Nopal limpio",
+            "precio": 2500,
+            "descuento": true,
+            "porcentaje_descuento": 0.16,
+            "imagen":  "https://i.ibb.co/n76vsPq/Nopal.jpg"
+        },
+
+        {
+            "id": 5,
+            "nombre": "Tomate verde",
+            "precio": 2500,
+            "descuento": true,
+            "porcentaje_descuento":  0.1,
+            "imagen": "https://i.ibb.co/FJLkScd/Tomate-verde.jpg"
+        },
+
+        {
+            "id": 6,
+            "nombre": "Coca-Cola sin azúcar 1.5L",
+            "precio": 4000,
+            "descuento": false,
+            "porcentaje_descuento":  0,
+            "imagen": "https://i.ibb.co/Vv4G2g0/Cocacola-sin-azucar.jpg"
+        },
+
+        {
+            "id": 7,
+            "nombre": "Coca-Cola Original 600ml",
+            "precio": 2400,
+            "descuento": false,
+            "porcentaje_descuento":  0,
+            "imagen": "https://i.ibb.co/M72BYGY/Cocacola.jpg"
+        },
+        
+        {
+            "id": 8,
+            "nombre": "Naranja",
+            "precio": 1500,
+            "descuento": true,
+            "porcentaje_descuento":  0.1,
+            "imagen": "https://i.ibb.co/dfr1pTv/Naranja.jpg"
+        },
+
+        {
+            "id": 9,
+            "nombre": "Jitomate Bola",
+            "precio": 4100,
+            "descuento": true,
+            "porcentaje_descuento":  0.1,
+            "imagen": "https://i.ibb.co/Yp9DFMt/Jitomate-Bola.jpg"
+        },
+
+        {
+            "id": 10,
+            "nombre": "Manzana Golden",
+            "precio": 7900,
+            "descuento": true,
+            "porcentaje_descuento":  0.19,
+            "imagen": "https://i.ibb.co/dgcjF7C/Manzana-Golden.jpg"
+        },
+
+        {
+            "id": 11,
+            "nombre": "Pechuga de Pavo San Rafael 250g",
+            "precio": 11900,
+            "descuento": false,
+            "porcentaje_descuento":  0,
+            "imagen": "https://i.ibb.co/RDDqrQp/Pechuga-de-pavo.jpg"
+        },
+
+        {
+            "id": 12,
+            "nombre": "Pan Bimbo blanco",
+            "precio": 2500,
+            "descuento": false,
+            "porcentaje_descuento":  0,
+            "imagen": "https://i.ibb.co/JRL7y9L/Pan-Bimbo.jpg"
+        },
+
+        {
+            "id": 13,
+            "nombre": "Mayonesa Mc Cormick 468g",
+            "precio": 8000,
+            "descuento": false,
+            "porcentaje_descuento":  0,
+            "imagen": "https://i.ibb.co/MfTd6xd/Mc-Cormick-Mayonesa.jpg"
+        },
+
+        {
+            "id": 14,
+            "nombre": "Paquete x2 Colgate Triple Acción 125ml",
+            "precio": 7900,
+            "descuento": false,
+            "porcentaje_descuento":  0,
+            "imagen": "https://i.ibb.co/99KZvKd/Colgate.jpg"
+        },
+
+        {
+            "id": 15,
+            "nombre": "Huevos San Juan x18",
+            "precio": 1000,
+            "descuento": false,
+            "porcentaje_descuento":  0,
+            "imagen": "https://i.ibb.co/j58tsNT/Huevos.jpg"
+        },
+
+        {
+            "id": 16,
+            "nombre": "Fabuloso Multiusos 2L",
+            "precio": 11800,
+            "descuento": false,
+            "porcentaje_descuento":  0,
+            "imagen": "https://i.ibb.co/n8nYwcD/Fabuloso.jpg"
+        }
+    ]
+}
