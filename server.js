@@ -1,6 +1,6 @@
 const jsonserver = require('json-server');
 const server = jsonserver.create();
-const router = jsonserver.router('ApiProductos.json');
+const router = jsonserver.router('data/bdProductos.json');
 const middlewares = jsonserver.defaults();
 server.use(middlewares);
 server.use(router);
